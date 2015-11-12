@@ -1,0 +1,14 @@
+h1{
+	text-align: center;
+	font-family: Helvetica;
+}
+#btnLogin{
+	background: #0099ff;	
+	border-radius: 5px;
+	border: none;
+	color: white;	
+	display: block;
+	cursor: pointer;
+	margin: 50px auto;
+	padding: 10px 15px;
+}
